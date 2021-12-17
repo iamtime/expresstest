@@ -1,5 +1,6 @@
 # extest
 Express test
 
-Run `composer install`\n
+Run `composer install`
+
 Run `./vendor/bin/phpunit tests`
