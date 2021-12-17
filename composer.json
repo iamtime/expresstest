@@ -1,5 +1,5 @@
 {
-    "name": "time/exptest",
+    "name": "time/expresstest",
     "require-dev": {
         "phpunit/phpunit": "9"
     }
